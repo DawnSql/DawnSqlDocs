@@ -11,7 +11,8 @@
 4. DawnSql 拥有良好的扩展性，用户可以自己扩展 SQL 的方法，让 DawnSql 兼容各种系统。
 5. DawnSql <span style="color:red;font-weight: bold">拥有新的脚本语言。用该语言可以简化业务代码，并生成自定义的 sql 方法。</span>
 6. DawnSql 是真正的后端低代码平台。
-7. DawnSql 是一种以业务为中心的，全新的开发模式。以最稳定、最高效、最灵活、最智能的方式，满足市场变化对业务提升的要求。
+7. DawnSql 提供多租户能力。PAAS/SAAS 平台可以无缝对接到 DawnSql 提供的多租户能力。
+8. DawnSql 是一种以业务为中心的，全新的开发模式。以最稳定、最高效、最灵活、最智能的方式，满足市场变化对业务提升的要求。
 
 ## 2、DawnSql 的优势是什么？
 
